@@ -1,4 +1,4 @@
-module ohm.softa.a07 {
+module ohm.softa.a {
 	requires java.sql;
 	requires javafx.controls;
 	requires javafx.fxml;
